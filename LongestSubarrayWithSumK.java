@@ -1,3 +1,7 @@
+// Remote State Internship Pen and Paper Coding Round 13/Apr/2022 13:00 - 14:00
+// brute force method
+// answered correctly in the time allotted
+
 package com.vedansh;
 
 import java.util.*;
