@@ -1,3 +1,6 @@
+// Silfra Technologies Internship Interview Round 2 14/Apr/2022 16:50 - 17:30
+// answered correctly during the interview
+
 package com.vedansh;
 
 class LinkedList {
