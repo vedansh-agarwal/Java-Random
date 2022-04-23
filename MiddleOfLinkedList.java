@@ -1,3 +1,8 @@
+// Silfra Technologies Internship Interview Round 1 9/Apr/2022 9:30 - 10:30
+// my first answer was traversing fully to find length of linked list and then traversing to the middle
+// also had trouble creating the linked list
+// answered correctly only after suggestion from interviewer during the interview
+
 package com.vedansh;
 
 class ListNode {
