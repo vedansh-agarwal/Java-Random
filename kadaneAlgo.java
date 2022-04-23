@@ -1,3 +1,6 @@
+// Silfra Technologies Internship Interview Round 1 9/Apr/2022 9:30 - 10:30
+// answered with difficulty during the interview
+
 package com.vedansh;
 
 public class kadaneAlgo {
